@@ -1,22 +1,29 @@
-Hi! I'm Santiago Joya 👋
+# Hi! I'm Santiago Joya 👋
 
-I'm a back-end developer passionate about REST API technologies and automation. I enjoy optimizing integration processes and am currently diving deeper into DevOps practices to streamline development workflows. I'm always eager to learn and improve my skills.
+I'm a passionate back-end developer with a focus on **REST API technologies** and **automation**. I enjoy optimizing integration processes and continuously strive to enhance my DevOps skills to improve development workflows. Learning and solving complex problems are what keep me motivated and moving forward.
 
-🚀 About Me
+---
 
-🌱 Currently learning Node.js and DevOps.
-💻 Experience working with HTML, CSS, JavaScript, PHP, Laravel, Vue.js.
-📚 Passionate about continuous learning and problem-solving.
-💬 Ask me about web development, functional programming, and automation.
-⚡ Fun fact: I love playing Inline speed skating and learning new languages!
+## 🚀 About Me
 
-🛠️ Technologies and Tools
+- 🌱 Currently exploring **Node.js** and **DevOps** practices.
+- 💻 Experienced with **HTML**, **CSS**, **JavaScript**, **PHP**, **Laravel**, and **Vue.js**.
+- 📚 Deeply passionate about **continuous learning**, **problem-solving**, and **process automation**.
+- 💬 Feel free to ask me about **back-end development**, **functional programming**, and **automation**.
+- ⚡ Fun fact: When I’m not coding, you’ll probably find me enjoying **inline speed skating** or learning a new language!
 
-Programming Languages: JavaScript, Python, Java, PHP
-Frameworks: Laravel, Vue.js, Node.js Express
-Databases: MySQL, MongoDB
-Development Tools: Git, Docker, VS Code
-Others: REST APIs, GraphQL
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santxjoya&show_icons=true&hide_title=true&count_private=true&hide=prs)
+## 🛠️ Technologies & Tools
 
+- **Programming Languages**: JavaScript, Python, Java, PHP
+- **Frameworks**: Laravel, Vue.js, Node.js, Express
+- **Databases**: MySQL, MongoDB
+- **Dev Tools**: Git, Docker, VS Code
+- **Other Skills**: REST APIs, GraphQL, CI/CD, Cloud Platforms
+
+---
+
+## 📣 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santxjoya)
