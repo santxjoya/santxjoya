@@ -18,4 +18,5 @@ Databases: MySQL, MongoDB
 Development Tools: Git, Docker, VS Code
 Others: REST APIs, GraphQL
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario-github&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=santxjoya&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
