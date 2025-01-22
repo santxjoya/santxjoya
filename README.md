@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi! I'm Santiago Joya 👋
 
-<!--
-**santxjoya/santxjoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a back-end developer passionate about REST API technologies and automation. I enjoy optimizing integration processes and am currently diving deeper into DevOps practices to streamline development workflows. I'm always eager to learn and improve my skills.
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Node.js and DevOps.
+💻 Experience working with HTML, CSS, JavaScript, PHP, Laravel, Vue.js.
+📚 Passionate about continuous learning and problem-solving.
+💬 Ask me about web development, functional programming, and automation.
+⚡ Fun fact: I love playing Inline speed skating and learning new languages!
+
+🛠️ Technologies and Tools
+
+Programming Languages: JavaScript, Python, Java, PHP
+Frameworks: Laravel, Vue.js, Node.js Express
+Databases: MySQL, MongoDB
+Development Tools: Git, Docker, VS Code
+Others: REST APIs, GraphQL
